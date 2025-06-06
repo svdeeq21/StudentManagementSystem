@@ -130,10 +130,10 @@ tutoring on one of the biggest E-learning platforms in Africa, AQSKill
 
 👨‍💻 Author
 
-Sadiq Shehu Musa
-Computer Science Student
-Air Force Institute of Technology
-Upcoming Software Developer
+- Sadiq Shehu Musa
+- Computer Science Student
+- Air Force Institute of Technology
+- Upcoming Software Developer
 
 
 ---
