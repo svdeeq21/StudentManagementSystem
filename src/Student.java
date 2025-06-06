@@ -5,8 +5,6 @@ public class Student {
     private String department;
     private double gpa;
 
-        //This comment is just to push this to git
-
 
     public Student(String matricNumber, String name, int age, String department, double gpa){
         this.matricNumber = matricNumber;

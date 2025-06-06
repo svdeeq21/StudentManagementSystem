@@ -6,8 +6,6 @@ import java.io.IOException;
 import java.io.BufferedReader;
 
 
-        //This comment is just to push this to git
-
 public class StudentManager {
     private ArrayList<Student> students = new ArrayList<>();
     private Scanner myScanner = new Scanner(System.in);
