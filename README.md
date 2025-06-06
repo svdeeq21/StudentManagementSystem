@@ -80,15 +80,24 @@ If you have the `.jar` file already built:
 4. Save changes to files or load existing data at compile time.
 
 ---
+## 📁 Project Structure
 
-📁 Project Structure
+The project is organized as follows:
 
+```
 StudentManagementSystem/
 ├── src/
-│ ├── Main.java # Entry point of the application
-│ ├── Student.java # Student class (data model)
-│ └── StudentManager.java # Handles student-related operations
-├── students.txt # (Optional) file where data is stored
+│   ├── Main.java             # Entry point of the application
+│   ├── Student.java          # Represents the Student class (data model)
+│   └── StudentManager.java   # Handles student-related operations
+├── students.txt              # (Optional) File where student data is stored
+```
+
+### Explanation of Key Files:
+- **Main.java**: This is the entry point of the application where the program starts execution.
+- **Student.java**: Defines the `Student` class, which serves as the data model for storing student information.
+- **StudentManager.java**: Contains the logic for managing student records, including adding, deleting, and searching for students.
+- **students.txt**: An optional file used to persist student data between application runs.
 
 
 ---
